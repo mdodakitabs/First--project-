@@ -22,4 +22,3 @@ A simple Todo List application built with HTML, CSS, and JavaScript.
 ## Code Structure
 * `index.html`: The main HTML file for the application
 * `style.css`: The CSS file for styling the application (included in the HTML file)
-* `
